@@ -1,15 +1,14 @@
-# React + Vite
-This template provides a minimal setup to get React working with Vite, including support for Hot Module Replacement (HMR) and ESLint rules to maintain code quality.
+# My Portfolio
 
-Available Plugins
-Currently, two official plugins are available for integrating React with Vite:
+This is a React-based portfolio website showcasing my projects, skills, and experiences. It is built using the modern development stack with Vite for fast builds and optimizations. The website is deployed to GitHub Pages for easy access.
 
-@vitejs/plugin-react:
-This is the official Vite plugin that makes React work smoothly with Vite.
-It uses Babel to convert React code (like JSX) into regular JavaScript that browsers can understand.
-It also supports Fast Refresh, which means your app updates instantly without losing its state when you change components during development.
+## Features
 
-@vitejs/plugin-react-swc:
-This plugin is similar to the one above, but it uses SWC instead of Babel.
-SWC is a faster tool for converting React code, so it makes the build process quicker.
-Just like the other plugin, it also supports Fast Refresh, but it's optimized for speed and better performance, especially for larger projects.
+- Clean, responsive design
+- Fast loading times thanks to Vite
+- Built using React 18
+- Linted with ESLint for consistent code style
+- Deployed via GitHub Pages
+
+This project was built with the help of the following tutorial:
+https://www.youtube.com/watch?v=ZpIel9cv4Jk – This tutorial helped me get started with React & Vite.
