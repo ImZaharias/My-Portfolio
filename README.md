@@ -10,4 +10,4 @@ This is a React-based portfolio website showcasing my projects, skills, and expe
 - Linted with ESLint for consistent code style
 - Deployed via GitHub Pages
 
-This portfolio was built with the help of the following tutorial: "How to Become a Developer". This tutorial helped me get started with React and Vite, two technologies that I’m now confident in using.
+This portfolio was built with the help of the following tutorial: https://www.youtube.com/watch?v=ZpIel9cv4Jk&t=7220s. This tutorial helped me get started with React and Vite, two technologies that I’m now confident in using.
