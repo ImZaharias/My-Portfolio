@@ -33,13 +33,13 @@ function Hero() {
                     Resume
                 </h3>
                 <p className={styles.description}>
-                I am a graduate of the Coding Factory (AUEB) and currently 
-                pursuing a Master’s in Computer Science at the University 
-                of Piraeus (UNIPI), focusing on software development. I 
-                hold a degree in Forestry and Environmental Studies and 
-                have spent six years in an elite military unit, where I 
-                developed strong skills in teamwork, discipline, and 
-                problem-solving.
+                I am a graduate of the Coding Factory, an intensive 6-month 
+                bootcamp offered by the Athens University of Economics and 
+                Business (AUEB). Currently, I am pursuing a Master’s in Computer 
+                Science at the University of Piraeus (UNIPI). I also hold a degree 
+                in Forestry and Environmental Studies. Additionally, I have six 
+                years of experience in an elite military unit, where I developed 
+                strong teamwork, discipline, and problem-solving skills.
                 </p>   
             </div>
         </section>
