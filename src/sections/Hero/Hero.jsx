@@ -30,16 +30,13 @@ function Hero() {
                     Ready to Code, Test, and Learn!
                 </p>
                 <h3>
-                    Resume
+                    My Journey
                 </h3>
                 <p className={styles.description}>
-                I am a graduate of the Coding Factory, an intensive 6-month 
-                bootcamp offered by the Athens University of Economics and 
-                Business (AUEB). Currently, I am pursuing a Master’s in Computer 
-                Science at the University of Piraeus (UNIPI). I also hold a degree 
-                in Forestry and Environmental Studies. Additionally, I have six 
-                years of experience in an elite military unit, where I developed 
-                strong teamwork, discipline, and problem-solving skills.
+                I graduated in 2016 with a degree in Forestry and Natural Environment Management from AUA. 
+                After seven years of service in the Hellenic Army, I transitioned to technology in 2024 by 
+                completing a Coding Factory Bootcamp at AUEB. Currently, I am pursuing a Master’s in Informatics 
+                at UNIPI, driven by a passion for programming and building a career in tech.
                 </p>   
             </div>
         </section>
