@@ -33,10 +33,12 @@ function Hero() {
                     My Journey
                 </h3>
                 <p className={styles.description}>
-                I graduated in 2016 with a degree in Forestry and Natural Environment Management from AUA. 
-                After seven years of service in the Hellenic Army, I transitioned to technology in 2024 by 
-                completing a Coding Factory Bootcamp at AUEB. Currently, I am pursuing a Master’s in Informatics 
-                at UNIPI, driven by a passion for programming and building a career in tech.
+                I graduated in 2016 with a degree in Forestry & Natural Environment Management 
+                from the Agricultural University of Athens (AUA). After seven years of service in 
+                the Hellenic Army, I transitioned to the technology sector in 2024 by completing an 
+                intensive six-month coding bootcamp, Coding Factory, at the Athens University of Economics 
+                and Business (AUEB). Currently, I am pursuing a Master΄s in Informatics at the University 
+                of Piraeus (UNIPI), driven by a passion for programming and a strong desire to build a career in tech.
                 </p>   
             </div>
         </section>
