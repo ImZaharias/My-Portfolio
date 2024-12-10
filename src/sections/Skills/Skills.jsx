@@ -10,19 +10,19 @@ function Skills() {
                 <SkillList src={checkMarkIcon} skill="Java"/>
                 <SkillList src={checkMarkIcon} skill="Spring Boot"/>
                 <SkillList src={checkMarkIcon} skill="Node.js"/>
-                <SkillList src={checkMarkIcon} skill="Hibernate"/>
+                <SkillList src={checkMarkIcon} skill="Express.js"/>
             </div>
             <hr />
             <div className={styles.skillList}>
                 <SkillList src={checkMarkIcon} skill="Javascript"/>
-                <SkillList src={checkMarkIcon} skill="React"/>
+                <SkillList src={checkMarkIcon} skill="React.js"/>
+                <SkillList src={checkMarkIcon} skill="TypeScript"/>
                 <SkillList src={checkMarkIcon} skill="HTML5"/>
-                <SkillList src={checkMarkIcon} skill="CSS3"/>
             </div>
             <hr />
             <div className={styles.skillList}>
                 <SkillList src={checkMarkIcon} skill="SQL"/>
-                <SkillList src={checkMarkIcon} skill="MySQL"/>
+                <SkillList src={checkMarkIcon} skill="PostgreSQL"/>
                 <SkillList src={checkMarkIcon} skill="MongoDB"/>
                 <SkillList src={checkMarkIcon} skill="Git"/>
             </div>
