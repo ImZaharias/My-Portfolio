@@ -11,18 +11,18 @@ function Projects() {
         <div className={styles.projectsContainer}>
           <ProjectCard src={expense} 
           link="https://github.com/ImZaharias/ExpenseTrackerApp" 
-          h3="My Expenses"
-          p="Expense Tracker App"
+          h3="Expense Tracker"
+          p="Track your expenses with ease"
           />
           <ProjectCard src={games} 
-          link="https://github.com/ImZaharias/JavaScript-Games" 
-          h3="My Games"
-          p="JavaScript Games"
+          link="https://imzaharias.github.io/HolyPolyGames/" 
+          h3="HolyPoly Games"
+          p="Fun games built with HTML, CSS, and JavaScript"
           />
           <ProjectCard src={order}
           link="https://github.com/ImZaharias" 
-          h3="Coming Soon"
-          p="Order Management App"
+          h3="E-Shop"
+          p="Exciting new e-shop project in development"
           />
         </div>
     </section>
