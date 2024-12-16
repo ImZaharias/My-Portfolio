@@ -12,17 +12,17 @@ function Projects() {
           <ProjectCard src={expense} 
           link="https://github.com/ImZaharias/ExpenseTrackerApp" 
           h3="Expense Tracker"
-          p="Track your expenses with ease"
+          p="Track Your Daily Spending"
           />
           <ProjectCard src={games} 
           link="https://imzaharias.github.io/HolyPolyGames/" 
-          h3="HolyPoly Games"
-          p="Fun games built with HTML, CSS, and JavaScript"
+          h3="Retro Games"
+          p="Classic Games"
           />
           <ProjectCard src={order}
           link="https://github.com/ImZaharias" 
-          h3="E-Shop"
-          p="Exciting new e-shop project in development"
+          h3="Comming Soon"
+          p="User-Friendly Shopping Platform "
           />
         </div>
     </section>
