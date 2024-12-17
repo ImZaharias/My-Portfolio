@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ImZaharias.github.io/My-Portfolio",
+  "homepage": "https://ImZaharias.github.io/MyPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
