@@ -14,24 +14,24 @@ function Skills() {
             </div>
             <hr />
             <div className={styles.skillList}>
-                <SkillList src={checkMarkIcon} skill="Javascript"/>
                 <SkillList src={checkMarkIcon} skill="React.js"/>
-                <SkillList src={checkMarkIcon} skill="TypeScript"/>
-                <SkillList src={checkMarkIcon} skill="HTML5"/>
+                <SkillList src={checkMarkIcon} skill="Angular"/>
+                <SkillList src={checkMarkIcon} skill="JavaScript"/>
+                <SkillList src={checkMarkIcon} skill="TailwindCSS"/>
             </div>
             <hr />
             <div className={styles.skillList}>
-                <SkillList src={checkMarkIcon} skill="SQL"/>
-                <SkillList src={checkMarkIcon} skill="PostgreSQL"/>
+                <SkillList src={checkMarkIcon} skill="MySQL"/>
                 <SkillList src={checkMarkIcon} skill="MongoDB"/>
-                <SkillList src={checkMarkIcon} skill="Git"/>
+                <SkillList src={checkMarkIcon} skill="SQL Server"/>
+                <SkillList src={checkMarkIcon} skill="Git & GitHub"/>
             </div>
             <hr />
             <div className={styles.skillList}>
-                <SkillList src={checkMarkIcon} skill="JUnit"/>
+                <SkillList src={checkMarkIcon} skill="Postman "/>
                 <SkillList src={checkMarkIcon} skill="Selenium"/>
-                <SkillList src={checkMarkIcon} skill="Mockito"/>
-                <SkillList src={checkMarkIcon} skill="TDD"/>
+                <SkillList src={checkMarkIcon} skill="JUnit"/>
+                <SkillList src={checkMarkIcon} skill="Debugging Tools"/>
             </div>
         </section>
     );    
