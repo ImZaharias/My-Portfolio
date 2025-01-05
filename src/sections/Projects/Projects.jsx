@@ -20,9 +20,9 @@ function Projects() {
           p="Classic Games"
           />
           <ProjectCard src={order}
-          link="https://github.com/ImZaharias" 
-          h3="Comming Soon"
-          p="User-Friendly Shopping Platform "
+          link="https://github.com/ImZaharias/AI-Gen-Factory" 
+          h3="AI-Gen-Factory"
+          p="A AI-powered shopping platform."
           />
         </div>
     </section>
