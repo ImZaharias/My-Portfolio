@@ -19,7 +19,7 @@
         align-self: center;
         flex-wrap: wrap;
         row-gap: 40px;
-        max-width: 18ch;
+        max-width: 16ch;
     }
     
     hr {
