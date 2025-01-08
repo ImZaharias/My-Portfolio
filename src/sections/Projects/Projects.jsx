@@ -20,7 +20,7 @@ function Projects() {
           p="Classic Games"
           />
           <ProjectCard src={order}
-          link="https://github.com/ImZaharias/AI-Gen-Factory" 
+          link="https://github.com/ImZaharias/E-Commerce-Store" 
           h3="AI-Gen-Factory"
           p="A AI-powered shopping platform."
           />
