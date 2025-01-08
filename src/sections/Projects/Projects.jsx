@@ -15,7 +15,7 @@ function Projects() {
           p="Track Your Daily Spending"
           />
           <ProjectCard src={games} 
-          link="https://imzaharias.github.io/HolyPolyGames/" 
+          link="https://github.com/ImZaharias/HolyPolyGames" 
           h3="Retro Games"
           p="Classic Games"
           />
