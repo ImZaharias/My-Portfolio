@@ -19,7 +19,7 @@ function Hero() {
                     Junior Developer
                 </h2>
                 <span>
-                    <a href="https://github.com/ImZaharias?tab=repositories" target='_blank'>
+                    <a href="https://github.com/ImZaharias" target='_blank'>
                         <img src={githubIcon} alt="Github icon" />
                     </a>
                     <a href="https://www.linkedin.com/in/zacharias-polytseris/" target='_blank'>
