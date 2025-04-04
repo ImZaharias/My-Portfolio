@@ -16,7 +16,7 @@ function Hero() {
                     Polytseris
                 </h1>
                 <h2>
-                    Junior Developer
+                    Junior Salesforce Developer
                 </h2>
                 <span>
                     <a href="https://github.com/ImZaharias" target='_blank'>
@@ -27,19 +27,18 @@ function Hero() {
                     </a>
                 </span>
                 <p>
-                    Ready to Code, Test, and Learn!
+                    Transitioning into Tech | Focused on Salesforce Development
                 </p>
                 <h3>
                     My Journey
                 </h3>
                 <p className={styles.description}>
-                I hold a degree in Forestry & Natural Environment Management from Technological Educational Institute
-                of Central Greece and served seven years in the Hellenic Army, where I developed 
-                strong discipline and problem-solving skills. In 2024, I transitioned to tech by completing 
-                an intensive coding bootcamp, Coding Factory at the Athens University of Economics & 
-                Business, discovering my passion for programming. Currently, I work as a data entry 
-                agent while pursuing a Master’s in Informatics at the University of Piraeus, aiming 
-                to combine my unique background and growing expertise to build a successful career in technology.
+                I hold a degree in Forestry & Natural Environment Management and served seven 
+                years in the Hellenic Army, developing strong discipline and adaptability. In 2024, 
+                I transitioned into tech through an intensive coding bootcamp, discovering my 
+                passion for software development. While working and pursuing a Master’s in Informatics 
+                at the University of Piraeus, i'm now focused on building full-stack Salesforce applications 
+                using Apex, LWC, and platform tools.
                 </p>   
             </div>
         </section>
