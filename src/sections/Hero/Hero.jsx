@@ -37,7 +37,7 @@ function Hero() {
                 years in the Hellenic Army, developing strong discipline and adaptability. In 2024, 
                 I transitioned into tech through an intensive coding bootcamp, discovering my 
                 passion for software development. While working and pursuing a Master’s in Informatics 
-                at the University of Piraeus, i'm now focused on building full-stack Salesforce applications 
+                at the University of Piraeus, i&apos;m now focused on building full-stack Salesforce applications 
                 using Apex, LWC, and platform tools.
                 </p>   
             </div>
