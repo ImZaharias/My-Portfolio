@@ -13,22 +13,22 @@ function Projects() {
           <ProjectCard src={expense} 
           link="https://github.com/ImZaharias/ExpenseTrackerApp" 
           h3="Expense Tracker"
-          p="Track Your Daily Spending"
+          p="Desktop app with JavaFX & MySQL"
           />
           <ProjectCard src={games} 
           link="https://github.com/ImZaharias/HolyPolyGames"
           h3="Retro Games"
-          p="Classic Games"
+          p="Mini browser games using JS, HTML, CSS"
           />
           <ProjectCard src={order}
           link="https://github.com/ImZaharias/E-Commerce-Store" 
           h3="AI-Gen-Factory"
-          p="A AI-powered shopping platform."
+          p="AI art shop with React, Node & Stripe"
           />
           <ProjectCard src={pal}
           link="" 
           h3="ReminderPal (in progress)"
-          p="Smart reminders & expenses, built with Salesforce."
+          p="Smart reminders built with Salesforce (LWC, Apex)"
           />
         </div>
     </section>
