@@ -3,6 +3,7 @@ import ProjectCard from '../../common/ProjectCard';
 import expense from './../../assets/expense.png';
 import order from './../../assets/order.png';
 import games from '../../assets/games.png';
+import pal from '../../assets/pal.png';
 
 function Projects() {
   return (
@@ -23,6 +24,11 @@ function Projects() {
           link="https://github.com/ImZaharias/E-Commerce-Store" 
           h3="AI-Gen-Factory"
           p="A AI-powered shopping platform."
+          />
+          <ProjectCard src={pal}
+          link="" 
+          h3="ReminderPal (in progress)"
+          p="Smart reminders & expenses, built with Salesforce."
           />
         </div>
     </section>
