@@ -16,7 +16,7 @@ function Hero() {
                     Polytseris
                 </h1>
                 <h2>
-                    Junior Salesforce Developer
+                    Aspiring Salesforce Developer
                 </h2>
                 <span>
                     <a href="https://github.com/ImZaharias" target='_blank'>
