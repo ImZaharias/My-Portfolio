@@ -1,4 +1,4 @@
-# My Portfolio ![App Homepage](https://github.com/ImZaharias/My-Portfolio/blob/main/hero.png)
+# My Portfolio ![App Homepage](hero.png)
 
 This is a React-based portfolio website showcasing my projects, skills, and experiences. It is built using the modern development stack with Vite for fast builds and optimizations. The website is deployed to GitHub Pages for easy access.
 
