@@ -21,14 +21,9 @@ function Projects() {
           p="Mini browser games using JS, HTML, CSS"
           />
           <ProjectCard src={order}
-          link="https://github.com/ImZaharias/E-Commerce-Store" 
-          h3="AI-Gen-Factory"
-          p="AI art shop with React, Node & Stripe"
-          />
-          <ProjectCard src={pal}
-          link="" 
-          h3="ReminderPal (in progress)"
-          p="Smart reminders built with Salesforce (LWC, Apex)"
+          link="https://github.com/ImZaharias/AnswerTrackerApp" 
+          h3="Answer Tracker"
+          p="Web app that tracks quiz accuracy in real-time"
           />
         </div>
     </section>

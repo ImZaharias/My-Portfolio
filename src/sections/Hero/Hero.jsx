@@ -16,7 +16,7 @@ function Hero() {
                     Polytseris
                 </h1>
                 <h2>
-                    Aspiring Salesforce Developer
+                    Junior Salesforce Developer
                 </h2>
                 <span>
                     <a href="https://github.com/ImZaharias" target='_blank'>
@@ -27,18 +27,18 @@ function Hero() {
                     </a>
                 </span>
                 <p>
-                    Transitioning into Tech | Focused on Salesforce Development
+                    MSc Informatics Student (UniPi) | Salesforce PD1 Certified
                 </p>
                 <h3>
                     My Journey
                 </h3>
                 <p className={styles.description}>
-                I hold a degree in Forestry & Natural Environment Management and served seven 
-                years in the Hellenic Army, developing strong discipline and adaptability. In 2024, 
-                I transitioned into tech through an intensive coding bootcamp, discovering my 
-                passion for software development. While working and pursuing a Master’s in Informatics 
-                at the University of Piraeus, i&apos;m now focused on building full-stack Salesforce applications 
-                using Apex, LWC, and platform tools.
+                I hold a BSc in Forestry & Natural Environment and served six years in the Hellenic 
+                Army (Special Forces), developing discipline, teamwork, and adaptability. In 2024, 
+                I transitioned into technology through the Coding Factory bootcamp (AUEB) and 
+                started my MSc in Informatics at the University of Piraeus. Since May 2025, I&apos;ve 
+                been working as a Salesforce Developer, focusing on Apex, Flows, and 
+                data management.
                 </p>   
             </div>
         </section>
