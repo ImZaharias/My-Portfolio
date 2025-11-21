@@ -16,7 +16,7 @@ function Hero() {
                     Polytseris
                 </h1>
                 <h2>
-                    Salesforce Application Engineer
+                    Salesforce Application Developer
                 </h2>
                 <span>
                     <a href="https://github.com/ImZaharias" target='_blank'>
@@ -37,7 +37,7 @@ function Hero() {
                 Army (Special Forces), developing discipline, teamwork, and adaptability. In 2024, 
                 I transitioned into technology through the Coding Factory bootcamp (AUEB) and 
                 started my MSc in Informatics at the University of Piraeus. Since May 2025, I&apos;ve 
-                been working as a Salesforce Application Engineer, focusing on Apex, Flows, and 
+                been working as a Salesforce Application Developer, focusing on Apex, Flows, and 
                 data management.
                 </p>   
             </div>
