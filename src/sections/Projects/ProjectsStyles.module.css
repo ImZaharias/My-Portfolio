@@ -23,24 +23,15 @@
 }
 
 .projectsContainer {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
     align-items: center;
-    gap: 30px;
-}
-
-.projectsContainer {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 24px;
-  padding: 20px 0;
 }
 
 @media (width >= 800px) {
     .projectsContainer {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
+        grid-template-columns: repeat(4, 1fr);
         padding: 0 30px;
     }
 }
