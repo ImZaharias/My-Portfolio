@@ -29,6 +29,13 @@
     gap: 30px;
 }
 
+.projectsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  padding: 20px 0;
+}
+
 @media (width >= 800px) {
     .projectsContainer {
         flex-direction: row;
